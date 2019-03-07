@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "label": "nightly",
+  "message": "psi4",
+  "color": "7cab6f",
+  "namedLogo": "linux",
+  "logoColor": "white",
+  "isError": true
+}
